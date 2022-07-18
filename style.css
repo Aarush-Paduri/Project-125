@@ -1,0 +1,23 @@
+.heading {
+    width:100%;
+}
+.note {
+    font-size: 15px;
+    color:black
+}
+.footer {
+    bottom: 0;
+    background-color: darkgrey;
+    line-height: 3;
+    position: fixed;
+    color: azure;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+canvas {
+    border-radius: 25px;
+    border-color: yellow;
+    border-width: 7px;
+    border-style: dashed;
+    box-shadow: 6px 6px 6px gray;
+}
